@@ -1,0 +1,31 @@
+{
+  "urls": {
+    "loginStart": "https://siemens-dev1.pegacloud.com/prweb/PRAuth",
+    "portalRoot": "https://siemens-dev1.pegacloud.com/prweb/app/default/WufOMs17lxZjy1fI-RH7kXW6DtwPXjuN*/!STANDARD"
+  },
+  "auth": {
+    "username": "vineeti_hemdani@bluerose-tech.com",
+    "password": "Vani@44112011"
+  },
+  "excel": {
+    "path": "SiemensApplication/test-data/playwright-data-driven-template.xlsx",
+    "sheets": {
+      "startWorkflow": "StartWorkflow",
+      "assignees": "Assignees",
+      "approvals": "Approvals",
+      "validations": "Validations"
+    },
+    "assigneesColumns": {
+      "stage": "stage",
+      "role": "role",
+      "searchText": "searchText",
+      "displayText": "displayText",
+      "emailIfAny": "emailIfAny",
+      "password": "password"
+    }
+  },
+  "ui": {
+    "refreshTestId": "202107280807300617678",
+    "reloadBannerTid": "202108040831080324727"
+  }
+}
